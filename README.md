@@ -19,7 +19,7 @@
   
   <br />
 
-  <!-- Languages & Markup -->
+  <!-- Languages & Markup (Dùng chuẩn skillicons) -->
   <h3>💻 Ngôn ngữ & Markup</h3>
   <p align="center">
     <a href="https://skillicons.dev">
@@ -29,12 +29,12 @@
 
   <br />
 
-  <!-- Database & Hệ Thống (Đã fix lỗi .svg) -->
+  <!-- Database & Hệ Thống (Fix lỗi bằng Icons8 tĩnh) -->
   <h3>⚙️ Database & Hệ Thống</h3>
   <p align="center">
-    <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927.svg" width="48" height="48" alt="SQL Server" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/oracle/F80000.svg" width="48" height="48" alt="Oracle" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/odoo/714B67.svg" width="48" height="48" alt="Odoo" />&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server" />&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/oracle-logo.png" alt="Oracle" />&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/odoo.png" alt="Odoo" />&nbsp;&nbsp;&nbsp;
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" />
     </a>
@@ -42,17 +42,17 @@
 
   <br />
 
-  <!-- Công Cụ Văn Phòng (Đã fix lỗi .svg) -->
+  <!-- Công Cụ Văn Phòng (Fix lỗi bằng Icons8 tĩnh) -->
   <h3>📊 Công Cụ Văn Phòng</h3>
   <p align="center">
-    <img src="https://cdn.simpleicons.org/microsoftword/2B579A.svg" width="48" height="48" alt="Word" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/microsoftexcel/217346.svg" width="48" height="48" alt="Excel" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A.svg" width="48" height="48" alt="PowerPoint" />
+    <img src="https://img.icons8.com/color/48/microsoft-word-2019--v2.png" alt="Word" />&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" />&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" alt="PowerPoint" />
   </p>
 
   <br />
 
-  <!-- Tools & DevOps -->
+  <!-- Tools & DevOps (Dùng chuẩn skillicons) -->
   <h3>🛠️ Tools & DevOps</h3>
   <p align="center">
     <a href="https://skillicons.dev">
