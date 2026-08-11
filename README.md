@@ -73,14 +73,16 @@
 
 <br/>
 
-### 📈 GitHub Stats
-
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=blue&hide_border=true&title_color=1E88E5&icon_color=1E88E5&text_color=333333" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=blue&hide_border=true&title_color=1E88E5&text_color=333333" />
+  <h3>✨ Thanks for visiting! ✨</h3>
+  <br/>
+  <!-- Hiệu ứng Rắn săn mồi (Snake Animation) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TraMi2209/TraMi2209/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TraMi2209/TraMi2209/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/TraMi2209/TraMi2209/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
-
----
 
 ### 📫 Let's Connect!
 
