@@ -8,7 +8,6 @@ on:
     branches:
     - main
 
-# BẮT BUỘC: Cấp quyền ghi để Action có thể đẩy ảnh lên nhánh output
 permissions: 
   contents: write
 
@@ -16,15 +15,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Nâng cấp phiên bản checkout lên v3 để ổn định hơn
       - uses: actions/checkout@v3 
       
       - uses: Platane/snk@v3
         with:
           github_user_name: TraMi2209
+          # Tùy chỉnh màu sắc cực Pro tại đây
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#00FFFF&color_dots=#161b22,#1b4b82,#1f6fad,#2792d6,#FFFFFF
             
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
