@@ -2,22 +2,25 @@ name: Generate Snake
 
 on:
   schedule:
-    # Cập nhật tự động vào nửa đêm mỗi ngày
     - cron: "0 0 * * *" 
   workflow_dispatch:
   push:
     branches:
     - main
 
+# BẮT BUỘC: Cấp quyền ghi để Action có thể đẩy ảnh lên nhánh output
+permissions: 
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      # Nâng cấp phiên bản checkout lên v3 để ổn định hơn
+      - uses: actions/checkout@v3 
       
       - uses: Platane/snk@v3
         with:
-          # Tên GitHub của bạn
           github_user_name: TraMi2209
           outputs: |
             dist/github-contribution-grid-snake.svg
