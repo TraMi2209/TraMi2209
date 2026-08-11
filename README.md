@@ -13,7 +13,8 @@ Xin chào! Mình là **Nguyễn Thị Trà Mi**, hiện đang là sinh viên chu
 * 🎓 **Học vấn:** Sinh viên chuyên ngành Hệ thống Thông tin (GPA: 3.19/4.0).
 * 🎯 **Mục tiêu:** Trở thành Thực tập sinh IT để áp dụng kiến thức vào thực tế, học hỏi quy trình làm việc trong môi trường doanh nghiệp và nâng cao kỹ năng chuyên môn[cite: 4].
 * 💡 **Đang tập trung tìm hiểu:** Phát triển Web (ASP.NET MVC/Core), Decentralized Applications (DApps) với Solidity, và thiết kế hệ cơ sở dữ liệu phân tán.
-* 📫 **Liên hệ:** [nguyenthitrami.saah@gmail.com](mailto:nguyenthitrami.saah@gmail.com) 
+* 📫 **Liên hệ:** [nguyenthitrami.saah@gmail.com](mailto:nguyenthitrami.saah@gmail.com)
+* *   **LinkedIn:** [linkedin.com/in/nguyenthitrami](#)
 
 ### 👨‍💻 Tech Stack & Tools
  <div align="center">
@@ -88,11 +89,7 @@ Xin chào! Mình là **Nguyễn Thị Trà Mi**, hiện đang là sinh viên chu
   </picture>
 </div>
 
-### 📫 Let's Connect!
 
-*   **Email:** [trang.ca.nhan@email.com](mailto:trang.ca.nhan@email.com)
-*   **LinkedIn:** [linkedin.com/in/nguyenthitrami](#)
-*   **Portfolio:** [trami.id.vn](#)
 
 <div align="center">
   <i>"Writing clean code and building smart systems."</i>
