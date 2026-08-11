@@ -4,9 +4,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Turning+Ideas+Into+Pixel-Perfect+Websites" alt="Typing Text Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Designing+databases+and+managing+software+projects" alt="Typing Text Animation" />
 </div>
-
 <!-- Tiêu đề About Me -->
 ## 👨‍💻 About Me
 
