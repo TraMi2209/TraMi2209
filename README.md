@@ -13,10 +13,8 @@
 *   👯 I’m looking to collaborate on...
 *   💬 Ask me about...
 
-
+### 👨‍💻 Tech Stack & Tools
  <div align="center">
-  <h2>👨‍💻 Tech Stack & Tools</h2>
-  
   <br />
 
   <!-- Languages & Markup (Dùng chuẩn skillicons) -->
