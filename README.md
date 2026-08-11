@@ -25,8 +25,6 @@
     </a>
   </p>
 
-  <br />
-
   <!-- Database & Hệ Thống (Fix lỗi bằng Icons8 tĩnh) -->
   <h3>⚙️ Database & Hệ Thống</h3>
   <p align="center">
@@ -38,8 +36,6 @@
     </a>
   </p>
 
-  <br />
-
   <!-- Công Cụ Văn Phòng (Fix lỗi bằng Icons8 tĩnh) -->
   <h3>📊 Công Cụ Văn Phòng</h3>
   <p align="center">
@@ -47,8 +43,6 @@
     <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" />&nbsp;&nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" alt="PowerPoint" />
   </p>
-
-  <br />
 
   <!-- Tools & DevOps (Dùng chuẩn skillicons) -->
   <h3>🛠️ Tools & DevOps</h3>
