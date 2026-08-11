@@ -40,12 +40,22 @@
 
   <br />
 
-  <!-- Tools & Software -->
-  <h3>🛠️ Công Cụ</h3>
+  <!-- Office Tools (Từ CV) -->
+  <h3>📊 Công Cụ Văn Phòng</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/Microsoft_Word-%232B579A.svg?style=flat-square&logo=microsoft-word&logoColor=white" alt="Word badge" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Microsoft_Excel-%23217346.svg?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel badge" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Microsoft_PowerPoint-%23B7472A.svg?style=flat-square&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint badge" />
+  </p>
+
+  <br />
+
+  <!-- Tools & DevOps (Từ ảnh mới thêm) -->
+  <h3>🛠️ Tools & DevOps</h3>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,vercel" alt="Tools and DevOps Icons" />
+    </a>
   </p>
 </div>
 
