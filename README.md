@@ -55,15 +55,6 @@
 
 ### 📈 GitHub Stats & Analytics
 <div align="center">
-  
-  <br />
-
-  <!-- Bảng thống kê tổng quan (Contributions, Repos, v.v.) -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TraMi2209&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Tra Mi GitHub Stats" />
-  </p>
-
-  <br />
 
   <!-- Biểu đồ hoạt động (Area Chart màu tím giống ảnh mẫu) -->
   <p align="center">
