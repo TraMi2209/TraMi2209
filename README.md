@@ -1,15 +1,12 @@
-<!-- Căn giữa ảnh Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=8e2de2,4a00e0,00c6ff&height=250&text=LeuTienDung&fontSize=70&fontColor=ffffff&desc=Front-end%20Developer%20%7C%20UI/UX%20Enthusiast%20%7C%20Tech%20Explorer&descSize=20&descColor=ffffff" alt="Profile Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=8e2de2,4a00e0,00c6ff&height=250&text=NGUYEN%20THI%20TRA%20MI&fontSize=60&fontColor=ffffff&desc=Front-end%20Developer%20%7C%20UI/UX%20Enthusiast%20%7C%20Tech%20Explorer&descSize=20&descColor=ffffff" alt="Profile Banner" width="100%">
 </div>
+
 <br/>
 
-<!-- Hiệu ứng chữ gõ (Typing SVG) màu Cyan -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Turning+Ideas+Into+Pixel-Perfect+Websites" alt="Typing Text Animation" />
 </div>
-
-<br/>
 
 <!-- Tiêu đề About Me -->
 ## 👨‍💻 About Me
