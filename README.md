@@ -1,17 +1,19 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff7e5f,feb47b,ff9a9e&height=250&width=1500&text=NguyenThiTraMi&fontSize=40&fontColor=ffffff&textAlignY=40&desc=Web%20Developer%20%7C%20Smart%20Contract%20Engineer%20%7C%20Project%20Manager&descSize=20&descColor=ffffff&descAlignY=75&animation=twinkling" alt="Profile Banner" width="100%">
-</div>
-<br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Designing+databases+managing+software+projects" alt="Typing Text Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=NguyenThiTraMi&fontSize=60&desc=Web%20Developer%20|%20Smart%20Contract%20Engineer%20|%20Project%20Manager&descSize=20&fontAlignY=35" alt="Header Banner" />
 </div>
-<!-- Tiêu đề About Me -->
-## 👨‍💻 About Me
 
-*   🌱 I’m currently learning...
-*   👯 I’m looking to collaborate on...
-*   💬 Ask me about...
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Designing+databases...;Developing+Web+Applications...;Building+Smart+Contracts...;Managing+IT+Projects..." alt="Typing SVG" />
+</div>
+
+## 👩‍💻 About Me
+Xin chào! Mình là **Nguyễn Thị Trà Mi**, hiện đang là sinh viên chuyên ngành Hệ thống Thông tin tại trường Đại học Ngoại ngữ - Tin học TPHCM (HUFLIT)[cite: 4]. Mình có niềm đam mê với công nghệ phần mềm và định hướng phát triển ở các mảng lập trình web, quản trị cơ sở dữ liệu và quản lý dự án công nghệ thông tin.
+
+* 🎓 **Học vấn:** Sinh viên chuyên ngành Hệ thống Thông tin (GPA: 3.19/4.0)[cite: 4].
+* 🎯 **Mục tiêu:** Trở thành Thực tập sinh IT để áp dụng kiến thức vào thực tế, học hỏi quy trình làm việc trong môi trường doanh nghiệp và nâng cao kỹ năng chuyên môn[cite: 4].
+* 💡 **Đang tập trung tìm hiểu:** Phát triển Web (ASP.NET MVC/Core), Decentralized Applications (DApps) với Solidity, và thiết kế hệ cơ sở dữ liệu phân tán.
+* 📫 **Liên hệ:** [nguyenthitrami.saah@gmail.com](mailto:nguyenthitrami.saah@gmail.com) | Khu vực: TP.HCM[cite: 4]
 
 ### 👨‍💻 Tech Stack & Tools
  <div align="center">
