@@ -14,7 +14,7 @@ Xin chào! Mình là **Nguyễn Thị Trà Mi**, hiện đang là sinh viên chu
 * 🎯 **Mục tiêu:** Trở thành Thực tập sinh IT để áp dụng kiến thức vào thực tế, học hỏi quy trình làm việc trong môi trường doanh nghiệp và nâng cao kỹ năng chuyên môn[cite: 4].
 * 💡 **Đang tập trung tìm hiểu:** Phát triển Web (ASP.NET MVC/Core), Decentralized Applications (DApps) với Solidity, và thiết kế hệ cơ sở dữ liệu phân tán.
 * 📫 **Liên hệ:** [nguyenthitrami.saah@gmail.com](mailto:nguyenthitrami.saah@gmail.com)
-* *   **LinkedIn:** [linkedin.com/in/nguyenthitrami](#)
+* 📫 **LinkedIn:** [linkedin.com/in/nguyenthitrami](www.linkedin.com/in/nguyễn-thị-trà-mi-b865a3363)
 
 ### 👨‍💻 Tech Stack & Tools
  <div align="center">
