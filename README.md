@@ -1,10 +1,24 @@
-# Hi there, I'm Nguyễn Thị Trà Mi 👋
+<!-- Căn giữa ảnh Banner -->
+<div align="center">
+  <!-- THAY THẾ LINK BÊN DƯỚI BẰNG LINK ẢNH BANNER CỦA BẠN -->
+  <img src="https://via.placeholder.com/1000x300/6A1B9A/00838F?text=Your+Banner+Here" alt="Profile Banner" width="100%">
+</div>
 
-🎓 **IT Student @ HUFLIT** (University of Foreign Languages and Information Technology)
+<br/>
 
-Tôi là một sinh viên Công nghệ Thông tin đam mê phát triển phần mềm, quản trị cơ sở dữ liệu và công nghệ Blockchain. Tôi thích việc tham gia từ khâu phân tích thiết kế, quản lý dự án cho đến khi triển khai hệ thống thực tế.
+<!-- Hiệu ứng chữ gõ (Typing SVG) màu Cyan -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Turning+Ideas+Into+Pixel-Perfect+Websites" alt="Typing Text Animation" />
+</div>
 
----
+<br/>
+
+<!-- Tiêu đề About Me -->
+## 👨‍💻 About Me
+
+*   🌱 I’m currently learning...
+*   👯 I’m looking to collaborate on...
+*   💬 Ask me about...
 
 ### 🛠 Tech Stack & Tools
 
