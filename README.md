@@ -34,7 +34,7 @@
   <p align="center">
     <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server" />&nbsp;&nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/oracle-logo.png" alt="Oracle" />&nbsp;&nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/48/odoo.png" alt="Odoo" />&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/odoo/714B67.svg" width="48" height="48" alt="Odoo" />&nbsp;&nbsp;&nbsp;
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" />
     </a>
