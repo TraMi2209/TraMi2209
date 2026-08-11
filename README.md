@@ -63,24 +63,17 @@
 </div>
 
 ### 🚀 Featured Projects
+<div align="center">
+  <h2> 💻 Featured Projects </h2>
+</div>
 
-#### 1. Hệ thống quản lý kinh doanh & cho thuê váy cưới cao cấp
-*   **Vai trò:** Phân tích & Quản lý dự án
-*   **Mô tả:** Xây dựng kế hoạch quản lý dự án (Project Management Plan), xác định tầm nhìn, mục tiêu chiến lược và lập SOW chi tiết cho hệ thống phần mềm phục vụ các dịch vụ cưới hỏi cao cấp.
+| 🚀 Project | 📄 Description | 🛠 Tech Stack | 🔗 Links |
+| :--- | :--- | :--- | :--- |
+| **[Website Bán Bánh BakeryShop](#)** | Phát triển website thương mại điện tử bán bánh ngọt với giao diện người dùng trực quan, thân thiện (UX/UI cơ bản)[cite: 3].<br><br>Thiết kế và quản trị cơ sở dữ liệu xử lý các chức năng cốt lõi như hiển thị danh mục sản phẩm, quản lý giỏ hàng và theo dõi trạng thái đơn hàng[cite: 3]. | <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <br> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/sql_server-%23CC2927.svg?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" /> | [![Demo](https://img.shields.io/badge/🌐_Demo-00FFFF?style=flat-square&labelColor=333333)](#) |
+| **[Dự Án Phần Mềm Váy Cưới](#)** | Thực hiện quy trình quản lý dự án phần mềm toàn diện cho hệ thống dịch vụ cưới hỏi cao cấp[cite: 3].<br><br>Xây dựng tầm nhìn dự án (Project Vision), xác định các mục tiêu chiến lược và hoàn thiện tài liệu Mô tả Công việc (Statement of Work - SOW)[cite: 3]. | <img src="https://img.shields.io/badge/Project_Management-8E2DE2?style=flat-square" alt="Project Management" /> <br> <img src="https://img.shields.io/badge/Microsoft_Word-%232B579A.svg?style=flat-square&logo=microsoft-word&logoColor=white" alt="Word" /> <img src="https://img.shields.io/badge/Microsoft_Excel-%23217346.svg?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" /> | [![Demo](https://img.shields.io/badge/🌐_Demo-00FFFF?style=flat-square&labelColor=333333)](#) |
+| **[Hệ Thống Gym KOI FITNESS](#)** | Thiết lập các phân hệ (module) cốt lõi nhằm quản lý thông tin hội viên, theo dõi các gói tập, sắp xếp lịch tập và quản lý nhân sự[cite: 3].<br><br>Tối ưu hóa luồng dữ liệu của doanh nghiệp để đảm bảo tính đồng bộ, ổn định và có khả năng mở rộng hệ thống[cite: 3]. | <img src="https://img.shields.io/badge/odoo-%23714B67.svg?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" /> <br> <img src="https://img.shields.io/badge/System_Admin-4A00E0?style=flat-square" alt="System Admin" /> | [![Demo](https://img.shields.io/badge/🌐_Demo-00FFFF?style=flat-square&labelColor=333333)](#) |
 
-#### 2. DApp Bảo hiểm chuyến bay & Hệ thống Escrow (Ký quỹ)
-*   **Công nghệ:** Solidity, Gradio
-*   **Mô tả:** Phát triển các Smart Contract trên nền tảng Blockchain để tự động hóa quy trình bảo hiểm chuyến bay và xử lý giao dịch ký quỹ an toàn. Tích hợp giao diện người dùng trực quan bằng thư viện Gradio.
-
-#### 3. Hệ thống quản lý cửa hàng nước hoa
-*   **Vai trò:** Database Designer
-*   **Mô tả:** Thiết kế sơ đồ phân rã chức năng (Functional Decomposition Diagrams), xây dựng các quy tắc nghiệp vụ chặt chẽ để theo dõi doanh thu và quản lý kho hàng hiệu quả.
-
-#### 4. SportsStore E-commerce App
-*   **Công nghệ:** ASP.NET, .NET Framework
-*   **Mô tả:** Triển khai ứng dụng thương mại điện tử, xử lý thành công các vấn đề tương thích và chuyển đổi môi trường giữa các phiên bản .NET 6.0 và .NET 9.0.
-
----
+<br/>
 
 ### 📈 GitHub Stats
 
