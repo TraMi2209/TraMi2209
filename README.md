@@ -8,12 +8,12 @@
 </div>
 
 ## 👩‍💻 About Me
-Xin chào! Mình là **Nguyễn Thị Trà Mi**, hiện đang là sinh viên chuyên ngành Hệ thống Thông tin tại trường Đại học Ngoại ngữ - Tin học TPHCM (HUFLIT)[cite: 4]. Mình có niềm đam mê với công nghệ phần mềm và định hướng phát triển ở các mảng lập trình web, quản trị cơ sở dữ liệu và quản lý dự án công nghệ thông tin.
+Xin chào! Mình là **Nguyễn Thị Trà Mi**, hiện đang là sinh viên chuyên ngành Hệ thống Thông tin tại trường Đại học Ngoại ngữ - Tin học TPHCM (HUFLIT)
 
-* 🎓 **Học vấn:** Sinh viên chuyên ngành Hệ thống Thông tin (GPA: 3.19/4.0)[cite: 4].
+* 🎓 **Học vấn:** Sinh viên chuyên ngành Hệ thống Thông tin (GPA: 3.19/4.0).
 * 🎯 **Mục tiêu:** Trở thành Thực tập sinh IT để áp dụng kiến thức vào thực tế, học hỏi quy trình làm việc trong môi trường doanh nghiệp và nâng cao kỹ năng chuyên môn[cite: 4].
 * 💡 **Đang tập trung tìm hiểu:** Phát triển Web (ASP.NET MVC/Core), Decentralized Applications (DApps) với Solidity, và thiết kế hệ cơ sở dữ liệu phân tán.
-* 📫 **Liên hệ:** [nguyenthitrami.saah@gmail.com](mailto:nguyenthitrami.saah@gmail.com) | Khu vực: TP.HCM[cite: 4]
+* 📫 **Liên hệ:** [nguyenthitrami.saah@gmail.com](mailto:nguyenthitrami.saah@gmail.com) 
 
 ### 👨‍💻 Tech Stack & Tools
  <div align="center">
