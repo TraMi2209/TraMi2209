@@ -13,12 +13,13 @@
 *   👯 I’m looking to collaborate on...
 *   💬 Ask me about...
 
-<div align="center">
+
+ <div align="center">
   <h2>👨‍💻 Tech Stack & Tools</h2>
   
   <br />
 
-  <!-- Languages & Markup (Dùng chuẩn icon vuông) -->
+  <!-- Languages & Markup -->
   <h3>💻 Ngôn ngữ & Markup</h3>
   <p align="center">
     <a href="https://skillicons.dev">
@@ -28,28 +29,30 @@
 
   <br />
 
-  <!-- Database & Systems (Kết hợp icon vuông và icon rời cùng kích thước) -->
+  <!-- Database & Hệ Thống (Đã fix lỗi .svg) -->
   <h3>⚙️ Database & Hệ Thống</h3>
   <p align="center">
-    <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="48" height="48" alt="SQL Server" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/oracle/F80000" width="48" height="48" alt="Oracle" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/odoo/714B67" width="48" height="48" alt="Odoo" />&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" />
+    <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927.svg" width="48" height="48" alt="SQL Server" />&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/oracle/F80000.svg" width="48" height="48" alt="Oracle" />&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/odoo/714B67.svg" width="48" height="48" alt="Odoo" />&nbsp;&nbsp;&nbsp;
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" />
+    </a>
   </p>
 
   <br />
 
-  <!-- Office Tools (Dùng icon rời cùng kích thước 48x48) -->
+  <!-- Công Cụ Văn Phòng (Đã fix lỗi .svg) -->
   <h3>📊 Công Cụ Văn Phòng</h3>
   <p align="center">
-    <img src="https://cdn.simpleicons.org/microsoftword/2B579A" width="48" height="48" alt="Word" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" alt="Excel" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" width="48" height="48" alt="PowerPoint" />
+    <img src="https://cdn.simpleicons.org/microsoftword/2B579A.svg" width="48" height="48" alt="Word" />&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/microsoftexcel/217346.svg" width="48" height="48" alt="Excel" />&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A.svg" width="48" height="48" alt="PowerPoint" />
   </p>
 
   <br />
 
-  <!-- Tools & DevOps (Dùng chuẩn icon vuông) -->
+  <!-- Tools & DevOps -->
   <h3>🛠️ Tools & DevOps</h3>
   <p align="center">
     <a href="https://skillicons.dev">
