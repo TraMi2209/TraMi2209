@@ -1,9 +1,7 @@
 <!-- Căn giữa ảnh Banner -->
 <div align="center">
-  <!-- THAY THẾ LINK BÊN DƯỚI BẰNG LINK ẢNH BANNER CỦA BẠN -->
-  <img src="https://via.placeholder.com/1000x300/6A1B9A/00838F?text=Your+Banner+Here" alt="Profile Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=8e2de2,4a00e0,00c6ff&height=250&text=LeuTienDung&fontSize=70&fontColor=ffffff&desc=Front-end%20Developer%20%7C%20UI/UX%20Enthusiast%20%7C%20Tech%20Explorer&descSize=20&descColor=ffffff" alt="Profile Banner" width="100%">
 </div>
-
 <br/>
 
 <!-- Hiệu ứng chữ gõ (Typing SVG) màu Cyan -->
