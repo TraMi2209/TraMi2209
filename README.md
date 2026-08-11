@@ -18,39 +18,38 @@
   
   <br />
 
-  <!-- Languages & Markup -->
+  <!-- Languages & Markup (Dùng chuẩn icon vuông) -->
   <h3>💻 Ngôn ngữ & Markup</h3>
   <p align="center">
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" alt="C# badge" />&nbsp;
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript badge" />&nbsp;
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5 badge" />&nbsp;
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3 badge" />
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cs,js,html,css" alt="Languages" />
+    </a>
   </p>
 
   <br />
 
-  <!-- Database & Systems -->
+  <!-- Database & Systems (Kết hợp icon vuông và icon rời cùng kích thước) -->
   <h3>⚙️ Database & Hệ Thống</h3>
   <p align="center">
-    <img src="https://img.shields.io/badge/sql_server-%23CC2927.svg?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server badge" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/oracle-%23F80000.svg?style=flat-square&logo=oracle&logoColor=white" alt="Oracle badge" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/odoo-%23714B67.svg?style=flat-square&logo=odoo&logoColor=white" alt="Odoo badge" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/wordpress-%2321759B.svg?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress badge" />
+    <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="48" height="48" alt="SQL Server" />&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/oracle/F80000" width="48" height="48" alt="Oracle" />&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/odoo/714B67" width="48" height="48" alt="Odoo" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" />
   </p>
 
   <br />
 
-  <!-- Office Tools (Từ CV) -->
+  <!-- Office Tools (Dùng icon rời cùng kích thước 48x48) -->
   <h3>📊 Công Cụ Văn Phòng</h3>
   <p align="center">
-    <img src="https://img.shields.io/badge/Microsoft_Word-%232B579A.svg?style=flat-square&logo=microsoft-word&logoColor=white" alt="Word badge" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Microsoft_Excel-%23217346.svg?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel badge" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Microsoft_PowerPoint-%23B7472A.svg?style=flat-square&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint badge" />
+    <img src="https://cdn.simpleicons.org/microsoftword/2B579A" width="48" height="48" alt="Word" />&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" alt="Excel" />&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" width="48" height="48" alt="PowerPoint" />
   </p>
 
   <br />
 
-  <!-- Tools & DevOps (Từ ảnh mới thêm) -->
+  <!-- Tools & DevOps (Dùng chuẩn icon vuông) -->
   <h3>🛠️ Tools & DevOps</h3>
   <p align="center">
     <a href="https://skillicons.dev">
