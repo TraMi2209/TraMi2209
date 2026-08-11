@@ -63,9 +63,7 @@
 </div>
 
 ### 🚀 Featured Projects
-<div align="center">
-  <h2> 💻 Featured Projects </h2>
-</div>
+
 
 | 🚀 Project | 📄 Description | 🛠 Tech Stack | 🔗 Links |
 | :--- | :--- | :--- | :--- |
