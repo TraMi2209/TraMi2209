@@ -1,11 +1,10 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=IT+SUPPORT+%7C+TESTER" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff7e5f,feb47b,ff9a9e&height=250&text=NGUYEN%20THI%20TRA%20MI&fontSize=60&fontColor=ffffff&textAlignY=40&desc=Web%20Developer%20%7C%20Smart%20Contract%20Engineer%20%7C%20Project%20Manager&descSize=20&descColor=ffffff&descAlignY=75&animation=twinkling" alt="Profile Banner" width="100%">
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Designing+databases...;Developing+Web+Applications...;Building+Smart+Contracts...;Managing+IT+Projects..." alt="Typing SVG" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Designing+databases...;Developing+Web+Applications...;Building+Smart+Contracts...;Managing+IT+Projects..." alt="Typing SVG" />
 
 ## 👩‍💻 About Me
 Xin chào! Mình là **Nguyễn Thị Trà Mi**, hiện đang là sinh viên chuyên ngành Hệ thống Thông tin tại trường Đại học Ngoại ngữ - Tin học TPHCM (HUFLIT)
