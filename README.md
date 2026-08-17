@@ -78,15 +78,6 @@ Xin chào! Mình là **Nguyễn Thị Trà Mi**, hiện đang là sinh viên chu
 <div align="center">
   <h3>✨ Thanks for visiting! ✨</h3>
   <br/>
-  <!-- Hiệu ứng Rắn săn mồi (Snake Animation) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TraMi2209/TraMi2209/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TraMi2209/TraMi2209/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/TraMi2209/TraMi2209/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-
 
 <div align="center">
   <i>"Writing clean code and building smart systems."</i>
