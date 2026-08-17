@@ -73,11 +73,6 @@ Xin chào! Mình là **Nguyễn Thị Trà Mi**, hiện đang là sinh viên chu
 | **[Hệ Thống Gym KOI FITNESS](#)** | Cấu hình phân hệ ERP quản lý hội viên, gói tập và nhân sự.<br>Tối ưu luồng dữ liệu đảm bảo tính đồng bộ và khả năng mở rộng. | <img src="https://img.shields.io/badge/odoo-%23714B67.svg?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" /> <br> <img src="https://img.shields.io/badge/System_Admin-4A00E0?style=flat-square" alt="System Admin" /> | [![Demo](https://img.shields.io/badge/🌐_Demo-00FFFF?style=flat-square&labelColor=333333)](#) |
 | **[Distributed_Database](https://github.com/TraMi2209/Distributed_Database.git)** | Hệ thống quản lý dữ liệu giáo dục với kiến trúc phân tán.<br>Xử lý các bài toán: tính trong suốt, chịu lỗi và nhất quán dữ liệu giữa môi trường Cloud (Somee) và Local (Docker). | <img src="https://img.shields.io/badge/sql_server-%23CC2927.svg?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <br> <img src="https://img.shields.io/badge/Somee-0088CC?style=flat-square" alt="Somee" /> | [![Demo](https://img.shields.io/badge/🌐_Demo-00FFFF?style=flat-square&labelColor=333333)](https://github.com/TraMi2209/Distributed_Database.git) |
 
-<br/>
-
-<div align="center">
-  <h3>✨ Thanks for visiting! ✨</h3>
-  <br/>
 
 <div align="center">
   <i>"Writing clean code and building smart systems."</i>
