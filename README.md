@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Designing+databases...;Developing+Web+Applications...;Building+Smart+Contracts...;Managing+IT+Projects..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Ensuring+Software+Quality...;Troubleshooting+System+Issues...;Executing+Test+Cases...;Providing+Technical+Support..." alt="Typing SVG" />
 </div>
 
 ## 👩‍💻 About Me
