@@ -82,3 +82,7 @@ Xin chào! Mình là **Nguyễn Thị Trà Mi**, hiện đang là sinh viên chu
 <div align="center">
   <i>"Writing clean code and building smart systems."</i>
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=a1c4fd,c2e9fb,ffffff&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=twinkling" alt="Footer Banner" width="100%">
+</div>
