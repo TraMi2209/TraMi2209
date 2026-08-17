@@ -5,6 +5,7 @@
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Designing+databases...;Developing+Web+Applications...;Building+Smart+Contracts...;Managing+IT+Projects..." alt="Typing SVG" />
+</div>
 
 ## 👩‍💻 About Me
 Xin chào! Mình là **Nguyễn Thị Trà Mi**, hiện đang là sinh viên chuyên ngành Hệ thống Thông tin tại trường Đại học Ngoại ngữ - Tin học TPHCM (HUFLIT)
