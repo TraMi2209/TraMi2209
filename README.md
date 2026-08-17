@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=NguyenThiTraMi&fontSize=60&desc=%20IT%20Support&descSize=20&fontAlignY=35" alt="Header Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=IT+SUPPORT+%7C+TESTER" alt="Typing SVG" />
 </div>
 
 <div align="center">
