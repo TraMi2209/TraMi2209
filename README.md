@@ -54,13 +54,7 @@ Xin chào! Mình là **Nguyễn Thị Trà Mi**, hiện đang là sinh viên chu
   </p>
 </div>
 
-### 📈 GitHub Stats & Analytics
-<div align="center">
-  <!-- Biểu đồ hoạt động (Đã thêm &v=1 ở cuối link để ép tải lại) -->
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TraMi2209&bg_color=1a1b27&color=b388ff&line=b388ff&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph&v=1" alt="Tra Mi Activity Graph" />
-  </p>
-</div>
+
 
 ### 🚀 Featured Projects
 
